@@ -7,7 +7,7 @@ st.write("""
 This app predicts the **Iris flower** type!
 """)
 
-st.image('http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/WholeStory-Iris.html')
+st.image('https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png')
 
 st.sidebar.header('User Input Parameters')
 
